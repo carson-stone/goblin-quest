@@ -66,5 +66,6 @@
       "./app/middleware/*.ts"
     ]
   },
-  "prettier": "@adonisjs/prettier-config"
+  "prettier": "@adonisjs/prettier-config",
+  "packageManager": "pnpm@7.9.3+sha512.d21a400f5bed20bc348bd8133787df6a09d2716316f7f6af7d920a96505477ef9f02f0acb3e85580f3c37741d2f5770e4faef98227781fd7ac1a46cb75a172fb"
 }
