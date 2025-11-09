@@ -9,5 +9,6 @@ export default class extends BaseSeeder {
     await this.seed(await import('#database/seeders/character_class_seeder'))
     await this.seed(await import('#database/seeders/user_seeder'))
     await this.seed(await import('#database/seeders/character_seeder'))
+    await this.seed(await import('#database/seeders/campaign_seeder'))
   }
 }
